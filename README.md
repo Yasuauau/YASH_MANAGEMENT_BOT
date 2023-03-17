@@ -24,7 +24,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 ### ╔═━「 Creator Info/Credits 」
 
-+ [LUCIFER MORNING STAR](https://github.com/Awesome-Prince) : OWNER | DEV
++ [LUCIFER MORNING STAR](https://github.com/savagekingdevill) : OWNER | DEV
 + [LUCIFER](https://github.com/TheHamkerCat) : ARQ MODULES
 + [TheRealPhoenix](https://github.com/rsktg) : BASE
 + [DragSama](https://github.com/DragSama) : ANIME
