@@ -17,7 +17,7 @@ A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb dat
 - [x] Heroku Deploy
 - [x] Docker/Local Machine
 
-╘═━「 Can be found on telegram as [MikasaRobot](https://telegram.dog/MikasaCuteBot) 」
+╘═━「 Can be found on telegram as [management_1_x_bot](https://telegram.dog/management_1_x_bot) 」
 
 ## ╔═━「 Credits 」
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
