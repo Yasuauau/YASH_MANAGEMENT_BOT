@@ -1,4 +1,4 @@
-<img src='https://graph.org/file/7f1b565df4be379474c92.jpg alternate="Meow Meow... Your Internet Gones..." height="250px">
+<img src='https://graph.org/file/7f1b565df4be379474c92.jpg' alternate="Meow Meow... Your Internet Gones..." height="250px">
 
 
 # MIKASA 𝐑𝐨𝐛𝐨𝐭 [ BETA ]
