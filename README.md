@@ -25,7 +25,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 ### ╔═━「 Creator Info/Credits 」
 
-+ [Yasuauau](https://github.com/savagekingdevill) : OWNER | DEV
++ [Yasuauau](https://github.com/) : OWNER | DEV
 + [LUCIFER](https://github.com/TheHamkerCat) : ARQ MODULES
 + [TheRealPhoenix](https://github.com/rsktg) : BASE
 + [DragSama](https://github.com/DragSama) : ANIME
@@ -45,7 +45,7 @@ The Support group can be reached out to at [Programmer • Support](https://ABOU
 <details>
 	<summary>Deploy Options</summary>
 <a href="https://cloud.okteto.com/#/deploy?repository=https://github.com/savagekingdevill/mikasabot-3"><img src="https://user-images.githubusercontent.com/36935426/167272305-91fd67c9-c3fc-4b4b-8a73-c35e57c8fcc5.png" height="40"></a>
-<a href="https://heroku.com/deploy?template=https://github.com/Savagekingdevill/Mikasabot"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
+<a href="https://heroku.com/deploy?template=httphttps://github.com/Awesome-Prince/Robot-3/discussions/15"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
 <a href="https://railway.app"><img src="https://railway.app/button.svg" height="40"></a>
 </details> 
 
