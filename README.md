@@ -24,17 +24,7 @@ The bot is based of on the original work done by [PaulSonOfLars](https://github.
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 ### ╔═━「 Creator Info/Credits 」
-
-+ [Yasuauau](https://github.com/) : OWNER | DEV
-+ [LUCIFER](https://github.com/TheHamkerCat) : ARQ MODULES
-+ [TheRealPhoenix](https://github.com/rsktg) : BASE
-+ [DragSama](https://github.com/DragSama) : ANIME
-+ [TsunayoshiSawada](https://github.com/TsunayoshiSawada) : BASE
-+ [Pokurt](https://github.com/pokurt) : WHATANIME MODULE API
-+ [Dank-del](https://github.com/Dank-del) : LEWD MODULE
-+ [InukaAsith](https://github.com/InukaAsith) : MEMES, INLINE ETC MODULES 
-+ [AyraHikari](https://github.com/AyraHikari): FED MODULE
-+ [Peaktogoo](https://github.com/peaktogoo) : FED MODULE
+        Savagekingdevill
 
 ╘═━「 Any other authorship/credits can be seen through the commits. 」
 
