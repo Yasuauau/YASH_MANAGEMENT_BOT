@@ -49,7 +49,7 @@ The Support group can be reached out to at [Programmer • Support](https://ABOU
 </p>
 
 ```console
-    ~$ git clone https://github.com/savagekingdevill/mikasabot-3.git
+    ~$ git clone:https://github.com/Yasuauau/YASH_MANAGEMENT_BOT/blob/main/README.md
     ~$ cd mikasabot
     ~$ cp sample_config.py config.py
 ```
